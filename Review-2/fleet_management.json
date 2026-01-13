@@ -1,0 +1,354 @@
+{
+    "Pune": [
+        {
+            "vehicle_id": "101",
+            "model": "m3",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "cessec",
+            "battery": 100,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "m3",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "cessec",
+            "battery": 100,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "m3",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "cessec",
+            "battery": 100,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "m3",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "cessec",
+            "battery": 100,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "902",
+            "model": "m3",
+            "battery": 40,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        }
+    ],
+    "Delhi": [
+        {
+            "vehicle_id": "101",
+            "model": "cessec",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 200,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "m9",
+            "battery": 90,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "104",
+            "model": "kj",
+            "battery": 89,
+            "type": "Scooter",
+            "extra": 90,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "105",
+            "model": "gnnn",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "cessec",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 200,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "m9",
+            "battery": 90,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "104",
+            "model": "kj",
+            "battery": 89,
+            "type": "Scooter",
+            "extra": 90,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "105",
+            "model": "gnnn",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "cessec",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 200,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "m9",
+            "battery": 90,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "104",
+            "model": "kj",
+            "battery": 89,
+            "type": "Scooter",
+            "extra": 90,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "105",
+            "model": "gnnn",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "101",
+            "model": "cessec",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 200,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "102",
+            "model": "m9",
+            "battery": 90,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "104",
+            "model": "kj",
+            "battery": 89,
+            "type": "Scooter",
+            "extra": 90,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "105",
+            "model": "gnnn",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        }
+    ],
+    "Bangalore": [
+        {
+            "vehicle_id": "501",
+            "model": "HighXc",
+            "battery": 100,
+            "type": "Scooter",
+            "extra": 240,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "502",
+            "model": "BHll",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "501",
+            "model": "HighXc",
+            "battery": 100,
+            "type": "Scooter",
+            "extra": 240,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "502",
+            "model": "BHll",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "501",
+            "model": "HighXc",
+            "battery": 100,
+            "type": "Scooter",
+            "extra": 240,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "502",
+            "model": "BHll",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "501",
+            "model": "HighXc",
+            "battery": 100,
+            "type": "Scooter",
+            "extra": 240,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "502",
+            "model": "BHll",
+            "battery": 90,
+            "type": "Car",
+            "extra": 2,
+            "rental_price": 0.5,
+            "status": "Available"
+        }
+    ],
+    "oti": [
+        {
+            "vehicle_id": "503",
+            "model": "mk",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "504",
+            "model": "mj",
+            "battery": 95,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "503",
+            "model": "mk",
+            "battery": 90,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        },
+        {
+            "vehicle_id": "504",
+            "model": "mj",
+            "battery": 95,
+            "type": "Car",
+            "extra": 4,
+            "rental_price": 0.5,
+            "status": "Available"
+        }
+    ],
+    "Nashik": [
+        {
+            "vehicle_id": "901",
+            "model": "cessec",
+            "battery": 50,
+            "type": "Scooter",
+            "extra": 120,
+            "rental_price": 0.15,
+            "status": "Available"
+        }
+    ]
+}
